@@ -1,8 +1,6 @@
 # Web-Development-PHP
 
-Web project developed using Html , Css and PHP.
-
-
+Web project developed using HTML , CSS and PHP.
 
 
 
